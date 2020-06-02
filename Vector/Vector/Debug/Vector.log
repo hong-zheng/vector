@@ -1,0 +1,17 @@
+﻿生成启动时间为 2020/6/2 8:59:38。
+     1>项目“G:\Vector\Vector\Vector.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>g:\vector\vector\test.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\vector\vector\test.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\vector\vector\test.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\vector\vector\test.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         F:\VS\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Vector\Debug\Vector.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Vector\Debug\Vector.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Vector\Debug\Vector.lib" /MACHINE:X86 Debug\test.obj
+         Vector.vcxproj -> G:\Vector\Debug\Vector.exe
+     1>已完成生成项目“G:\Vector\Vector\Vector.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.11
